@@ -1,0 +1,10 @@
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\bin\Debug\TayotaOS.exe.config
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\bin\Debug\TayotaOS.exe
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\bin\Debug\TayotaOS.pdb
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\obj\Debug\TayotaOS.csproj.AssemblyReference.cache
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\obj\Debug\TayotaOS.Form1.resources
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\obj\Debug\TayotaOS.Properties.Resources.resources
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\obj\Debug\TayotaOS.csproj.GenerateResource.cache
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\obj\Debug\TayotaOS.csproj.CoreCompileInputs.cache
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\obj\Debug\TayotaOS.exe
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\obj\Debug\TayotaOS.pdb
