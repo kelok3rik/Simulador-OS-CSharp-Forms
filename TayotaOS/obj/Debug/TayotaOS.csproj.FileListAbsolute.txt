@@ -8,3 +8,37 @@ C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS P
 C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\obj\Debug\TayotaOS.csproj.CoreCompileInputs.cache
 C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\obj\Debug\TayotaOS.exe
 C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\obj\Debug\TayotaOS.pdb
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\bin\Debug\Interop.WMPLib.dll
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\obj\Debug\Interop.WMPLib.dll
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\obj\Debug\TayotaOS.csproj.ResolveComReference.cache
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\obj\Debug\TayotaOS.Pantallas.ReproductorMusica.resources
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\bin\Debug\Recursos\Musica\sonido.mp3
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\bin\Debug\Recursos\Musica\- Esta tonta Cobardia Saul De La Paz  Extended 127 Bpm Clean Dj Samuel Alvarez - DFC Deejay ESTUDIO.mp3
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\bin\Debug\Recursos\Musica\- Huellas - Romeo Santos - Intro Outro Jefferson Zuñiga Dj  - 2022 - DFC Deejay ESTUDIO.mp3
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\bin\Debug\Recursos\Musica\Alex Bueno - Que Vuelva - DJ Tumbao - Bachata - Intro Outro - 134 Bpm - DFC Deejay ESTUDIO.mp3
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\bin\Debug\Recursos\Musica\Alex Bueno - Tres Noches - DJ Many Mix - Bachata - Intro Outro - 137 Bpm - DFC Deejay ESTUDIO.mp3
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\bin\Debug\Recursos\Musica\Anthony Santos - Amorcito Ven - DJ DECKS - Bachata - Intro Outro - 119 Bpm - DFC Deejay ESTUDIO.mp3
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\bin\Debug\Recursos\Musica\Anthony Santos - Ay No Te Vayas - DJ Yulios - Bachata - Intro Outro - 145 Bpm - DFC Deejay ESTUDIO.mp3
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\bin\Debug\Recursos\Musica\Aventura - Deja Vú - Dj Alex Cajamarca - Bachata - Intro Outro - 126 Bpm - DFC Deejay ESTUDIO.mp3
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\bin\Debug\Recursos\Musica\Aventura - Dile Al Amor - DJESTIL - Bachata - Intro Outro - 124 Bpm - DFC Deejay ESTUDIO.mp3
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\bin\Debug\Recursos\Musica\Aventura - El Malo - DJESTIL - Bachata - Intro Outro - 126 Bpm - DFC Deejay ESTUDIO.mp3
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\bin\Debug\Recursos\Musica\Aventura - Hermanita - Dj Alex Cajamarca - Bachata - Intro Outro - 126 Bpm - DFC Deejay ESTUDIO.mp3
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\bin\Debug\Recursos\Musica\Aventura - La Pelicula - Dj Alex Cajamarca - Bachata - Intro Outro - 119 Bpm - DFC Deejay ESTUDIO.mp3
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\bin\Debug\Recursos\Musica\Aventura - La Tormenta - EzequielDj - Bachata - Intro Outro - 126 Bpm - DFC Deejay ESTUDIO.mp3
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\bin\Debug\Recursos\Musica\Aventura - Mi Niña Cambió - Dj Alex Cajamarca - Bachata - Intro Outro - 132 Bpm - DFC Deejay ESTUDIO.mp3
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\bin\Debug\Recursos\Musica\Camilo - Homenaje a Anthony Santos - DJ Yulios - Bachata - Intro Outro - 140 Bpm - DFC Deejay ESTUDIO.mp3
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\obj\Debug\TayotaOS.Pantallas.BlocNotas.resources
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\obj\Debug\TayotaOS.Pantallas.Navegador.resources
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\obj\Debug\TayotaOS.csproj.CopyComplete
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\obj\Debug\TayotaOS.Pantallas.Carpetas.resources
