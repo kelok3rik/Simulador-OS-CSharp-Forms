@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erikr\\OneDrive\\Documentos\\ESTUDIOS\\UTESA\\2024\\UTESA 1-2024\\ALGORITMOS PARALELOS\\TAREA-SEMANA-3-PARALELOS\\TayotaOS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3248D93F-EFFC-4DBA-B352-72F3DAC91BE0}|TayotaOS.csproj|C:\\Users\\erikr\\OneDrive\\Documentos\\ESTUDIOS\\UTESA\\2024\\UTESA 1-2024\\ALGORITMOS PARALELOS\\TAREA-SEMANA-3-PARALELOS\\TayotaOS\\pantallas\\administradortareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3248D93F-EFFC-4DBA-B352-72F3DAC91BE0}|TayotaOS.csproj|solutionrelative:pantallas\\administradortareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3248D93F-EFFC-4DBA-B352-72F3DAC91BE0}|TayotaOS.csproj|c:\\users\\erikr\\onedrive\\documentos\\estudios\\utesa\\2024\\utesa 1-2024\\algoritmos paralelos\\tarea-semana-3-paralelos\\tayotaos\\pantallas\\blocnotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3248D93F-EFFC-4DBA-B352-72F3DAC91BE0}|TayotaOS.csproj|solutionrelative:pantallas\\blocnotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3248D93F-EFFC-4DBA-B352-72F3DAC91BE0}|TayotaOS.csproj|C:\\Users\\erikr\\OneDrive\\Documentos\\ESTUDIOS\\UTESA\\2024\\UTESA 1-2024\\ALGORITMOS PARALELOS\\TAREA-SEMANA-3-PARALELOS\\TayotaOS\\pantallas\\administradortareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3248D93F-EFFC-4DBA-B352-72F3DAC91BE0}|TayotaOS.csproj|solutionrelative:pantallas\\administradortareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3248D93F-EFFC-4DBA-B352-72F3DAC91BE0}|TayotaOS.csproj|C:\\Users\\erikr\\OneDrive\\Documentos\\ESTUDIOS\\UTESA\\2024\\UTESA 1-2024\\ALGORITMOS PARALELOS\\TAREA-SEMANA-3-PARALELOS\\TayotaOS\\pantallas\\blocnotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3248D93F-EFFC-4DBA-B352-72F3DAC91BE0}|TayotaOS.csproj|solutionrelative:pantallas\\blocnotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3248D93F-EFFC-4DBA-B352-72F3DAC91BE0}|TayotaOS.csproj|C:\\Users\\erikr\\OneDrive\\Documentos\\ESTUDIOS\\UTESA\\2024\\UTESA 1-2024\\ALGORITMOS PARALELOS\\TAREA-SEMANA-3-PARALELOS\\TayotaOS\\pantallas\\carpetas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3248D93F-EFFC-4DBA-B352-72F3DAC91BE0}|TayotaOS.csproj|solutionrelative:pantallas\\carpetas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3248D93F-EFFC-4DBA-B352-72F3DAC91BE0}|TayotaOS.csproj|C:\\Users\\erikr\\OneDrive\\Documentos\\ESTUDIOS\\UTESA\\2024\\UTESA 1-2024\\ALGORITMOS PARALELOS\\TAREA-SEMANA-3-PARALELOS\\TayotaOS\\pantallas\\navegador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3248D93F-EFFC-4DBA-B352-72F3DAC91BE0}|TayotaOS.csproj|solutionrelative:pantallas\\navegador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3248D93F-EFFC-4DBA-B352-72F3DAC91BE0}|TayotaOS.csproj|C:\\Users\\erikr\\OneDrive\\Documentos\\ESTUDIOS\\UTESA\\2024\\UTESA 1-2024\\ALGORITMOS PARALELOS\\TAREA-SEMANA-3-PARALELOS\\TayotaOS\\pantallas\\prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3248D93F-EFFC-4DBA-B352-72F3DAC91BE0}|TayotaOS.csproj|solutionrelative:pantallas\\prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3248D93F-EFFC-4DBA-B352-72F3DAC91BE0}|TayotaOS.csproj|C:\\Users\\erikr\\OneDrive\\Documentos\\ESTUDIOS\\UTESA\\2024\\UTESA 1-2024\\ALGORITMOS PARALELOS\\TAREA-SEMANA-3-PARALELOS\\TayotaOS\\pantallas\\reproductormusica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3248D93F-EFFC-4DBA-B352-72F3DAC91BE0}|TayotaOS.csproj|solutionrelative:pantallas\\reproductormusica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3248D93F-EFFC-4DBA-B352-72F3DAC91BE0}|TayotaOS.csproj|C:\\Users\\erikr\\OneDrive\\Documentos\\ESTUDIOS\\UTESA\\2024\\UTESA 1-2024\\ALGORITMOS PARALELOS\\TAREA-SEMANA-3-PARALELOS\\TayotaOS\\pantallas\\carpetas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3248D93F-EFFC-4DBA-B352-72F3DAC91BE0}|TayotaOS.csproj|solutionrelative:pantallas\\carpetas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdministradorTareas.cs",
+              "DocumentMoniker": "C:\\Users\\erikr\\OneDrive\\Documentos\\ESTUDIOS\\UTESA\\2024\\UTESA 1-2024\\ALGORITMOS PARALELOS\\TAREA-SEMANA-3-PARALELOS\\TayotaOS\\Pantallas\\AdministradorTareas.cs",
+              "RelativeDocumentMoniker": "Pantallas\\AdministradorTareas.cs",
+              "ToolTip": "C:\\Users\\erikr\\OneDrive\\Documentos\\ESTUDIOS\\UTESA\\2024\\UTESA 1-2024\\ALGORITMOS PARALELOS\\TAREA-SEMANA-3-PARALELOS\\TayotaOS\\Pantallas\\AdministradorTareas.cs",
+              "RelativeToolTip": "Pantallas\\AdministradorTareas.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAnwFgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T20:24:00.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdministradorTareas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\erikr\\OneDrive\\Documentos\\ESTUDIOS\\UTESA\\2024\\UTESA 1-2024\\ALGORITMOS PARALELOS\\TAREA-SEMANA-3-PARALELOS\\TayotaOS\\Pantallas\\AdministradorTareas.cs",
+              "RelativeDocumentMoniker": "Pantallas\\AdministradorTareas.cs",
+              "ToolTip": "C:\\Users\\erikr\\OneDrive\\Documentos\\ESTUDIOS\\UTESA\\2024\\UTESA 1-2024\\ALGORITMOS PARALELOS\\TAREA-SEMANA-3-PARALELOS\\TayotaOS\\Pantallas\\AdministradorTareas.cs [Design]",
+              "RelativeToolTip": "Pantallas\\AdministradorTareas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T20:36:12.738Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Carpetas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\erikr\\OneDrive\\Documentos\\ESTUDIOS\\UTESA\\2024\\UTESA 1-2024\\ALGORITMOS PARALELOS\\TAREA-SEMANA-3-PARALELOS\\TayotaOS\\Pantallas\\Carpetas.cs",
+              "RelativeDocumentMoniker": "Pantallas\\Carpetas.cs",
+              "ToolTip": "C:\\Users\\erikr\\OneDrive\\Documentos\\ESTUDIOS\\UTESA\\2024\\UTESA 1-2024\\ALGORITMOS PARALELOS\\TAREA-SEMANA-3-PARALELOS\\TayotaOS\\Pantallas\\Carpetas.cs [Design]",
+              "RelativeToolTip": "Pantallas\\Carpetas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T20:36:10.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Navegador.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\erikr\\OneDrive\\Documentos\\ESTUDIOS\\UTESA\\2024\\UTESA 1-2024\\ALGORITMOS PARALELOS\\TAREA-SEMANA-3-PARALELOS\\TayotaOS\\Pantallas\\Navegador.cs",
+              "RelativeDocumentMoniker": "Pantallas\\Navegador.cs",
+              "ToolTip": "C:\\Users\\erikr\\OneDrive\\Documentos\\ESTUDIOS\\UTESA\\2024\\UTESA 1-2024\\ALGORITMOS PARALELOS\\TAREA-SEMANA-3-PARALELOS\\TayotaOS\\Pantallas\\Navegador.cs [Design]",
+              "RelativeToolTip": "Pantallas\\Navegador.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T20:36:09.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "prueba.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\erikr\\OneDrive\\Documentos\\ESTUDIOS\\UTESA\\2024\\UTESA 1-2024\\ALGORITMOS PARALELOS\\TAREA-SEMANA-3-PARALELOS\\TayotaOS\\Pantallas\\prueba.cs",
+              "RelativeDocumentMoniker": "Pantallas\\prueba.cs",
+              "ToolTip": "C:\\Users\\erikr\\OneDrive\\Documentos\\ESTUDIOS\\UTESA\\2024\\UTESA 1-2024\\ALGORITMOS PARALELOS\\TAREA-SEMANA-3-PARALELOS\\TayotaOS\\Pantallas\\prueba.cs [Design]",
+              "RelativeToolTip": "Pantallas\\prueba.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T20:36:08.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReproductorMusica.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\erikr\\OneDrive\\Documentos\\ESTUDIOS\\UTESA\\2024\\UTESA 1-2024\\ALGORITMOS PARALELOS\\TAREA-SEMANA-3-PARALELOS\\TayotaOS\\Pantallas\\ReproductorMusica.cs",
+              "RelativeDocumentMoniker": "Pantallas\\ReproductorMusica.cs",
+              "ToolTip": "C:\\Users\\erikr\\OneDrive\\Documentos\\ESTUDIOS\\UTESA\\2024\\UTESA 1-2024\\ALGORITMOS PARALELOS\\TAREA-SEMANA-3-PARALELOS\\TayotaOS\\Pantallas\\ReproductorMusica.cs [Design]",
+              "RelativeToolTip": "Pantallas\\ReproductorMusica.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T20:36:06.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlocNotas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\erikr\\OneDrive\\Documentos\\ESTUDIOS\\UTESA\\2024\\UTESA 1-2024\\ALGORITMOS PARALELOS\\TAREA-SEMANA-3-PARALELOS\\TayotaOS\\Pantallas\\BlocNotas.cs",
+              "RelativeDocumentMoniker": "Pantallas\\BlocNotas.cs",
+              "ToolTip": "C:\\Users\\erikr\\OneDrive\\Documentos\\ESTUDIOS\\UTESA\\2024\\UTESA 1-2024\\ALGORITMOS PARALELOS\\TAREA-SEMANA-3-PARALELOS\\TayotaOS\\Pantallas\\BlocNotas.cs [Design]",
+              "RelativeToolTip": "Pantallas\\BlocNotas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T18:40:09.07Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlocNotas.cs",
+              "DocumentMoniker": "C:\\Users\\erikr\\OneDrive\\Documentos\\ESTUDIOS\\UTESA\\2024\\UTESA 1-2024\\ALGORITMOS PARALELOS\\TAREA-SEMANA-3-PARALELOS\\TayotaOS\\Pantallas\\BlocNotas.cs",
+              "RelativeDocumentMoniker": "Pantallas\\BlocNotas.cs",
+              "ToolTip": "C:\\Users\\erikr\\OneDrive\\Documentos\\ESTUDIOS\\UTESA\\2024\\UTESA 1-2024\\ALGORITMOS PARALELOS\\TAREA-SEMANA-3-PARALELOS\\TayotaOS\\Pantallas\\BlocNotas.cs",
+              "RelativeToolTip": "Pantallas\\BlocNotas.cs",
+              "ViewState": "AQIAAK0AAAAAAAAAAAAAALUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T18:19:28.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Carpetas.cs",
+              "DocumentMoniker": "C:\\Users\\erikr\\OneDrive\\Documentos\\ESTUDIOS\\UTESA\\2024\\UTESA 1-2024\\ALGORITMOS PARALELOS\\TAREA-SEMANA-3-PARALELOS\\TayotaOS\\Pantallas\\Carpetas.cs",
+              "RelativeDocumentMoniker": "Pantallas\\Carpetas.cs",
+              "ToolTip": "C:\\Users\\erikr\\OneDrive\\Documentos\\ESTUDIOS\\UTESA\\2024\\UTESA 1-2024\\ALGORITMOS PARALELOS\\TAREA-SEMANA-3-PARALELOS\\TayotaOS\\Pantallas\\Carpetas.cs",
+              "RelativeToolTip": "Pantallas\\Carpetas.cs",
+              "ViewState": "AQIAALkAAAAAAAAAAAAswMEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T13:53:20.012Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

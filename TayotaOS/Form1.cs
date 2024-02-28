@@ -13,12 +13,7 @@ namespace TayotaOS
 {
     public partial class Form1 : Form
     {
-        // crear objeto de Administrador de Tareas
-        Pantallas.AdministradorTareas adminTareas = new Pantallas.AdministradorTareas();
-        Pantallas.ReproductorMusica reproductorMusica = new Pantallas.ReproductorMusica();
-        Pantallas.BlocNotas BlocNotas = new Pantallas.BlocNotas();
-        Pantallas.Navegador navegador = new Pantallas.Navegador();
-        Pantallas.Carpetas carpetas = new Pantallas.Carpetas();
+       
 
 
 
@@ -59,7 +54,8 @@ namespace TayotaOS
             // abrir el administrador de tarea en un hilo aparte y ver cuantos recursos consume
            
             
-            
+                
+                Pantallas.AdministradorTareas adminTareas = new Pantallas.AdministradorTareas();
                 adminTareas.Show();
             
          
@@ -68,23 +64,27 @@ namespace TayotaOS
 
         private void button1_Click(object sender, EventArgs e)
         {
+            Pantallas.ReproductorMusica reproductorMusica = new Pantallas.ReproductorMusica();
             reproductorMusica.Show();
 
         }
 
         private void btnEditorTexto_Click(object sender, EventArgs e)
         {
+            Pantallas.BlocNotas BlocNotas = new Pantallas.BlocNotas();
             BlocNotas.Show();
 
         }
 
         private void btnNavegador_Click(object sender, EventArgs e)
         {
+            Pantallas.Navegador navegador = new Pantallas.Navegador();
             navegador.Show();
         }
 
         private void btnCarpetas_Click(object sender, EventArgs e)
         {
+            Pantallas.Carpetas carpetas = new Pantallas.Carpetas();
             carpetas.Show();
 
 

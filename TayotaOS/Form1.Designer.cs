@@ -62,23 +62,23 @@
             // 
             // barraTareas
             // 
-            this.barraTareas.AutoSize = true;
-            this.barraTareas.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.barraTareas.BackColor = System.Drawing.Color.RoyalBlue;
             this.barraTareas.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.barraTareas.Controls.Add(this.labelFecha);
             this.barraTareas.Controls.Add(this.labelHora);
-            this.barraTareas.Location = new System.Drawing.Point(0, 627);
+            this.barraTareas.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.barraTareas.Location = new System.Drawing.Point(0, 628);
             this.barraTareas.Name = "barraTareas";
-            this.barraTareas.Size = new System.Drawing.Size(1235, 38);
+            this.barraTareas.Size = new System.Drawing.Size(1229, 38);
             this.barraTareas.TabIndex = 2;
             // 
             // labelFecha
             // 
+            this.labelFecha.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.labelFecha.AutoSize = true;
             this.labelFecha.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelFecha.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.labelFecha.Location = new System.Drawing.Point(1151, 17);
+            this.labelFecha.Location = new System.Drawing.Point(1115, 17);
             this.labelFecha.Name = "labelFecha";
             this.labelFecha.Size = new System.Drawing.Size(77, 17);
             this.labelFecha.TabIndex = 2;
@@ -86,10 +86,11 @@
             // 
             // labelHora
             // 
+            this.labelHora.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.labelHora.AutoSize = true;
             this.labelHora.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelHora.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.labelHora.Location = new System.Drawing.Point(1151, 0);
+            this.labelHora.Location = new System.Drawing.Point(1115, 0);
             this.labelHora.Name = "labelHora";
             this.labelHora.Size = new System.Drawing.Size(69, 17);
             this.labelHora.TabIndex = 1;
@@ -121,7 +122,7 @@
             this.btnCarpetas.Name = "btnCarpetas";
             this.btnCarpetas.Size = new System.Drawing.Size(146, 53);
             this.btnCarpetas.TabIndex = 7;
-            this.btnCarpetas.Text = "Carpetas";
+            this.btnCarpetas.Text = "Explorador Archivos";
             this.btnCarpetas.UseVisualStyleBackColor = true;
             this.btnCarpetas.Click += new System.EventHandler(this.btnCarpetas_Click);
             // 
@@ -144,7 +145,6 @@
             this.barraTareas.ResumeLayout(false);
             this.barraTareas.PerformLayout();
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 

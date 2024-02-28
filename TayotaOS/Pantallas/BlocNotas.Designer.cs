@@ -32,12 +32,14 @@
             this.abrirToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.guardarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.NombreArchivo = new System.Windows.Forms.Label();
+            this.txtNombreArchivo = new System.Windows.Forms.TextBox();
             this.richTextBox1 = new System.Windows.Forms.RichTextBox();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.Archivo = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.label1 = new System.Windows.Forms.Label();
-            this.txtNombreArchivo = new System.Windows.Forms.TextBox();
-            this.NombreArchivo = new System.Windows.Forms.Label();
+            this.Archivo = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Direccion = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.btnAtras = new System.Windows.Forms.Button();
             this.menuStrip1.SuspendLayout();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
@@ -78,6 +80,22 @@
             this.panel1.Size = new System.Drawing.Size(522, 348);
             this.panel1.TabIndex = 1;
             // 
+            // NombreArchivo
+            // 
+            this.NombreArchivo.AutoSize = true;
+            this.NombreArchivo.Location = new System.Drawing.Point(25, 13);
+            this.NombreArchivo.Name = "NombreArchivo";
+            this.NombreArchivo.Size = new System.Drawing.Size(59, 16);
+            this.NombreArchivo.TabIndex = 2;
+            this.NombreArchivo.Text = "Nombre:";
+            // 
+            // txtNombreArchivo
+            // 
+            this.txtNombreArchivo.Location = new System.Drawing.Point(90, 13);
+            this.txtNombreArchivo.Name = "txtNombreArchivo";
+            this.txtNombreArchivo.Size = new System.Drawing.Size(301, 22);
+            this.txtNombreArchivo.TabIndex = 1;
+            // 
             // richTextBox1
             // 
             this.richTextBox1.Location = new System.Drawing.Point(15, 41);
@@ -92,14 +110,25 @@
             this.dataGridView1.AllowUserToOrderColumns = true;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.Archivo});
+            this.Archivo,
+            this.Direccion});
             this.dataGridView1.Location = new System.Drawing.Point(693, 112);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 24;
+            this.dataGridView1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dataGridView1.Size = new System.Drawing.Size(265, 338);
             this.dataGridView1.TabIndex = 2;
             this.dataGridView1.DoubleClick += new System.EventHandler(this.dataGridView1_DoubleClick_1);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(850, 93);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(108, 16);
+            this.label1.TabIndex = 3;
+            this.label1.Text = "Lista de archivos";
             // 
             // Archivo
             // 
@@ -110,36 +139,30 @@
             this.Archivo.ReadOnly = true;
             this.Archivo.Width = 125;
             // 
-            // label1
+            // Direccion
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(690, 88);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(108, 16);
-            this.label1.TabIndex = 3;
-            this.label1.Text = "Lista de archivos";
+            this.Direccion.HeaderText = "Direccion";
+            this.Direccion.MinimumWidth = 6;
+            this.Direccion.Name = "Direccion";
+            this.Direccion.ReadOnly = true;
+            this.Direccion.Width = 125;
             // 
-            // txtNombreArchivo
+            // btnAtras
             // 
-            this.txtNombreArchivo.Location = new System.Drawing.Point(90, 13);
-            this.txtNombreArchivo.Name = "txtNombreArchivo";
-            this.txtNombreArchivo.Size = new System.Drawing.Size(301, 22);
-            this.txtNombreArchivo.TabIndex = 1;
-            // 
-            // NombreArchivo
-            // 
-            this.NombreArchivo.AutoSize = true;
-            this.NombreArchivo.Location = new System.Drawing.Point(25, 13);
-            this.NombreArchivo.Name = "NombreArchivo";
-            this.NombreArchivo.Size = new System.Drawing.Size(59, 16);
-            this.NombreArchivo.TabIndex = 2;
-            this.NombreArchivo.Text = "Nombre:";
+            this.btnAtras.Location = new System.Drawing.Point(693, 85);
+            this.btnAtras.Name = "btnAtras";
+            this.btnAtras.Size = new System.Drawing.Size(151, 23);
+            this.btnAtras.TabIndex = 4;
+            this.btnAtras.Text = "Atras";
+            this.btnAtras.UseVisualStyleBackColor = true;
+            this.btnAtras.Click += new System.EventHandler(this.btnAtras_Click);
             // 
             // BlocNotas
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1025, 535);
+            this.Controls.Add(this.btnAtras);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.panel1);
@@ -147,7 +170,6 @@
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "BlocNotas";
             this.Text = "BlocNotas";
-            this.Load += new System.EventHandler(this.BlocNotas_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.panel1.ResumeLayout(false);
@@ -166,9 +188,11 @@
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.RichTextBox richTextBox1;
         private System.Windows.Forms.DataGridView dataGridView1;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Archivo;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label NombreArchivo;
         private System.Windows.Forms.TextBox txtNombreArchivo;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Archivo;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Direccion;
+        private System.Windows.Forms.Button btnAtras;
     }
 }

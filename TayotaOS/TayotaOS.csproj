@@ -120,6 +120,9 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Pantallas\AdministradorTareas.resx">
+      <DependentUpon>AdministradorTareas.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Pantallas\BlocNotas.resx">
       <DependentUpon>BlocNotas.cs</DependentUpon>
     </EmbeddedResource>

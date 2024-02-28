@@ -40,7 +40,6 @@ C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS P
 C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
 C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
 C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\obj\Debug\TayotaOS.Pantallas.Navegador.resources
-C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\obj\Debug\TayotaOS.csproj.CopyComplete
 C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\obj\Debug\TayotaOS.Pantallas.Carpetas.resources
 C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\bin\Debug\Xceed.Wpf.AvalonDock.dll
 C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
@@ -61,3 +60,5 @@ C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS P
 C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
 C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
 C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\obj\Debug\TayotaOS.Pantallas.prueba.resources
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\obj\Debug\TayotaOS.Pantallas.AdministradorTareas.resources
+C:\Users\erikr\OneDrive\Documentos\ESTUDIOS\UTESA\2024\UTESA 1-2024\ALGORITMOS PARALELOS\TAREA-SEMANA-3-PARALELOS\TayotaOS\obj\Debug\TayotaOS.csproj.Up2Date
